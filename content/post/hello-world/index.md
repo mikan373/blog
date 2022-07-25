@@ -5,8 +5,7 @@ slug: hello-world
 date: 2022-06-06 00:00:00+0000
 image: cover.jpg
 categories:
-    - Example Category
-    - ひとりごと
+    - Not Tech
 tags:
     - 
 ---

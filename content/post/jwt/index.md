@@ -1,5 +1,5 @@
 ---
-title: JWTってなんだろう
+title: JWTってなに？
 description: 
 slug: jwt
 date: 2022-06-26 00:00:00+0000

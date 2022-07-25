@@ -5,7 +5,7 @@ slug: light-sensor
 date: 2022-07-24 00:00:00+0000
 image: light.jpg
 categories:
-    - IoT
+    - iot
 tags:
     - 
 ---
