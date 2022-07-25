@@ -1,5 +1,5 @@
 ---
-title: M5StickCで電気消し忘れをLINE通知するセンサーを作ってみた
+title: M5StickCで電気消し忘れをLINE通知するデバイスを作ってみた
 description: 
 slug: light-sensor
 date: 2022-07-24 00:00:00+0000
