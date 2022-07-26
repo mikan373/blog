@@ -48,7 +48,7 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍊
+        emoji: 👩‍💻
         subtitle: Web開発者を目指しています。学んだことのまとめを初心者なりに書き残していきます。
         avatar:
             enabled: true
