@@ -2,7 +2,7 @@
 title: M5StickCで電気消し忘れをLINE通知するデバイスを作ってみた
 description: 
 slug: light-sensor
-date: 2022-07-24 00:00:00+0000
+date: 2022-07-23 00:00:00+0000
 image: light.jpg
 categories:
     - iot
@@ -71,8 +71,9 @@ UIFlowでは、Blocklyというブロックを組み立ててプログラムを�
 POSTメソッドで"https://notify-api.line.me/api/notify"へリクエストを送ります。
 ![](UIFlow_func.png) 
 
-### 通知結果
-- 通知結果は以下のように届きました！![](LINE_message.jpeg) 
+### 結果
+- ライトONの状態が5分以上続いた、デバイスの表示は以下の通りです。ちょっと見えづらいのですが、一行目は"Light Status: ON"と書いてあります。 ![](device.JPG)
+- 通知は以下のように届きました！![](LINE_message.jpeg) 
 
 
 ### 問題点と反省

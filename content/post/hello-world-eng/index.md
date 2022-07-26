@@ -5,7 +5,7 @@ slug: hello-world-eng
 date: 2022-06-06 00:00:00+0000
 image: cover.jpg
 categories:
-    - Not Tech
+    - Other
 tags:
     - 
 ---

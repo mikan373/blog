@@ -2,7 +2,7 @@
 title: PythonでSQLiteを操作する方法
 description: 
 slug: python-sqlite
-date: 2022-07-20 00:00:00+0000
+date: 2022-07-24 00:00:00+0000
 image: pexels-tatiana-syrikova-3975585.jpg
 categories:
     - DB
@@ -151,6 +151,6 @@ ichiro
 jiro
 ```
 
-### 公式ドキュメント
-docs.python.orgに詳細な記載があります。
+### 参考リンク
+docs.python.orgに詳細な記載があります。  
 [sqlite3 --- SQLite データベースに対する DB-API 2.0 インタフェース](https://docs.python.org/ja/3.8/library/sqlite3.html)
