@@ -37,7 +37,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: /favicon.ico
 
     footer:
         since: 2022
@@ -194,6 +194,12 @@ menu:
           url: https://github.com/mikan373?tab=repositories
           params:
               icon: brand-github
+
+        - identifier: linkedin
+          name: LinkedIn
+          url: https://www.linkedin.com/in/minami-ohya-bb2a31247
+          params:
+              icon: brand-linkedin
 
         # - identifier: twitter
         #   name: Twitter
