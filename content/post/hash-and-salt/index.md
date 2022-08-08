@@ -5,7 +5,7 @@ slug: hash-and-salt
 date: 2022-06-08 00:00:00+0000
 image: hash.jpg
 categories:
-    - セキュリティ
+    - Security
 tags:
     - パスワード
     - ハッシュ

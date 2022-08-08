@@ -5,8 +5,8 @@ slug: encode-encrypt-hash
 date: 2022-06-26 00:00:00+0000
 image: encode.jpg
 categories:
-    - IT用語 
-    - セキュリティ
+    - IT-term 
+    - Security
 tags:
     - エンコード
     - エンクリプト

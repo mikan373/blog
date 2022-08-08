@@ -5,7 +5,7 @@ slug: json-and-xml
 date: 2022-06-17 00:00:00+0000
 image: data.jpg
 categories:
-    - IT用語
+    - IT-term
 tags:
     - JSON
     - XML
