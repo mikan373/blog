@@ -1,9 +1,9 @@
 ---
 title: Hello World
 description: 
-slug: hello-world-eng
+slug: hello-world
 date: 2022-06-06 00:00:00+0000
-image: cover.jpg
+image: pexels-claire-morgan-4068013.jpg
 categories:
     - Other
 tags:
