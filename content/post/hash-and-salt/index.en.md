@@ -164,9 +164,10 @@ As it's shown above, it returned false when entered_password is wrong, and True 
 > 👩👨👵 Yaaay!
 
 ***  
-### Let's securely store passwords by hashing and salting!
+Let's securely store passwords by hashing and salting!
   
 ### References
 >- [hashlib — Secure hashes and message digests](https://docs.python.org/3/library/hashlib.html)  
+>- [Hashing Algorithm Overview: Types, Methodologies & Usage](https://www.okta.com/identity-101/hashing-algorithms/#:~:text=A%20hashing%20algorithm%20is%20a,and%20decoded%20by%20anyone%20else.)
 
 🍔🧂🍟

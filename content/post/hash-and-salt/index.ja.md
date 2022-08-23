@@ -177,4 +177,8 @@ True
 今回はパスワードをソルトを加えてハッシュ化する方法についてまとめました。  
 パスワードの基本の扱い方として、よく覚えておきたいと思います。  
   
+### 参考リンク
+>- [hashlib — Secure hashes and message digests](https://docs.python.org/3/library/hashlib.html)  
+>- [Hashing Algorithm Overview: Types, Methodologies & Usage](https://www.okta.com/identity-101/hashing-algorithms/#:~:text=A%20hashing%20algorithm%20is%20a,and%20decoded%20by%20anyone%20else.)
+
 🍔🧂🍟
